@@ -1,0 +1,70 @@
+<PERSONS>
+<PERSON>
+<sl_no>23</sl_no>
+<name>john CARTER</name>
+<admission_date>25/12/2015</admission_date>
+</PERSON>
+
+<PERSON>
+<sl_no>29</sl_no>
+<name>BOB MARSHEL</name>
+<admission_date>13/01/1999</admission_date>
+</PERSON>
+
+<PERSON>
+
+<sl_no>35</sl_no>
+<name>clark kent</name>
+<admission_date>17//2015</admission_date>
+</PERSON>
+</PERSONS>
+
+//////
+<products>
+
+</product>
+<id>11</id>
+<NAME>SAMSUNG</NAME>
+<unitprice> 35000</unitprice>
+<stock>50</stock>
+<status>1</status>
+
+
+<students>
+<student>
+<name> ABC </name>
+<age>99</age>
+<dept>CSE</dept>
+<add>
+<road>4</road>
+
+<house>20</house>
+</add>
+</student>
+
+<student>
+<name> ABC </name>
+<age>99</age>
+<dept>CSE</dept>
+</student>
+
+</students>
+</product>
+
+<product>
+<id>20</id>
+<NAME>HTC</NAME>
+<unitprice> 65300</unitprice>
+<stock>35</stock>
+<status>0</status>
+</product>
+
+</product>
+<id>23</id>
+<NAME>NOKIA</NAME>
+<unitprice> 25100</unitprice>
+<stock>100</stock>
+<status>1</status>
+</product>
+
+</products>
